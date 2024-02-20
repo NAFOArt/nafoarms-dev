@@ -43,6 +43,6 @@ There are a few ways you can help us financially:
 
 Here are some of the things we produce for Ukraine
 
-<div class="dono-img">
-    <a href="{{ '/gallery/' | relative_url }}"><img src="{{ '/assets/images/gallery/donate.png' | relative_url }}" alt="Gallery"></a>
+<div class="nafoarms-donateimage">
+    <a href="/gallery/"><img src="/assets/images/gallery/donate.png" alt="Gallery"></a>
 </div>
